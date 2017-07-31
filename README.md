@@ -1,6 +1,6 @@
 # TACC Vislab Kiosk
 
-![Vislab Kiosk](https://dl.dropboxusercontent.com/u/25652072/Vislab_Kiosk_Overview.png)
+![Vislab Kiosk](http://imgur.com/wCcHBmd.png)
 
 Features
  - Vislab system information
